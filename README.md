@@ -1,1 +1,1 @@
-# ai-in-me-1-git-practice
+# ai-in-me-1-practice
